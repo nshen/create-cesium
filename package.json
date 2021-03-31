@@ -1,6 +1,6 @@
 {
   "name": "create-cesium",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "nshen <nshen121@gmail.com>",
   "bin": {
@@ -12,14 +12,24 @@
   "engines": {
     "node": ">=12.0.0"
   },
+  "keywords": [
+    "Cesium",
+    "cesium starter",
+    "cesium scaffolding",
+    "cesium webpack",
+    "create cesium",
+    "cesium es6",
+    "vite",
+    "vite plugin"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nshen/create-cesium-app.git"
+    "url": "git+https://github.com/nshen/create-cesium.git"
   },
   "bugs": {
-    "url": "https://github.com/nshen/create-cesium-app/issues"
+    "url": "https://github.com/nshen/create-cesium/issues"
   },
-  "homepage": "https://github.com/nshen/create-cesium-app/tree/main#readme",
+  "homepage": "https://github.com/nshen/create-cesium/tree/main#readme",
   "dependencies": {
     "enquirer": "^2.3.6",
     "kolorist": "^1.2.9",
