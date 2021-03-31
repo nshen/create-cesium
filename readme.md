@@ -1,5 +1,7 @@
 # 🌏 Create Cesium
 
+[![npm](https://img.shields.io/npm/v/create-cesium.svg)](https://www.npmjs.com/package/create-cesium)
+
 Create blazing fast Cesium apps with no configuration.
 
 - 📦 Both TypeScript and JavaScript
