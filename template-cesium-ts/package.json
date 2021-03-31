@@ -1,0 +1,14 @@
+{
+  "name": "cesium-starter",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^2.1.5",
+    "vite-plugin-cesium": "^1.2.0",
+    "cesium": "^1.79.1"
+  }
+}

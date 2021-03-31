@@ -1,0 +1,16 @@
+.DS_Store
+dist
+dist-ssr
+*.local
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+node_modules
+.vscode
+.idea
+**/node_modules/
+**/dist/
+
+

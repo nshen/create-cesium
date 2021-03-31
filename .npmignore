@@ -1,0 +1,16 @@
+**/dist/
+**/node_modules/
+.DS_Store
+dist
+dist-ssr
+*.local
+*.log
+*.tgz
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+node_modules
+.vscode
+.idea
+

@@ -1,0 +1,28 @@
+{
+  "name": "create-cesium",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "nshen <nshen121@gmail.com>",
+  "bin": {
+    "create-cesium": "index.js",
+    "create-cesium-app": "index.js",
+    "ccesium": "index.js"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nshen/create-cesium-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nshen/create-cesium-app/issues"
+  },
+  "homepage": "https://github.com/nshen/create-cesium-app/tree/main#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6",
+    "kolorist": "^1.2.9",
+    "minimist": "^1.2.5"
+  }
+}
