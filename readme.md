@@ -26,6 +26,8 @@ npx create-cesium
 
 Then follow the prompts !
 
+![create-cesium](./readme.gif)
+
 ## License
 
 [The MIT License](http://opensource.org/licenses/MIT)
