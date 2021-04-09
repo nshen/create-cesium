@@ -15,11 +15,17 @@ const {
   lightRed,
   red,
   stripColors,
+  blue,
 } = require("kolorist");
 
 const cwd = process.cwd();
 
-const TEMPLATES = [yellow("cesium"), green("cesium-ts")];
+const TEMPLATES = [
+  blue("cesium"),
+  blue("cesium-ts"),
+  green("cesium-vue"),
+  green("cesium-vue-ts"),
+];
 
 const renameFiles = {
   _gitignore: ".gitignore",
