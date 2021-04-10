@@ -1,5 +1,5 @@
 {
-  "name": "cesium-starter",
+  "name": "cesium-typescript-starter",
   "version": "0.0.0",
   "license": "MIT",
   "scripts": {
@@ -9,6 +9,7 @@
   "devDependencies": {
     "vite": "^2.1.5",
     "vite-plugin-cesium": "^1.2.1",
-    "cesium": "^1.80"
+    "cesium": "^1.80",
+    "typescript": "^4.1.3"
   }
 }
