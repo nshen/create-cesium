@@ -9,6 +9,7 @@ Create blazing fast Cesium apps with no configuration.
 - 💡 Instant Dev Server Start
 - ⚡️ Lightning Fast HMR
 - 💖 Optimized Build
+- 📢 Cesium + Vue 3 ( new )
 
 ## Quick Start
 
@@ -32,4 +33,4 @@ Then follow the prompts !
 
 [The MIT License](http://opensource.org/licenses/MIT)
 
-This Project is forked from [Vite](https://github.com/vitejs/vite).
+This Project was forked from [Vite](https://github.com/vitejs/vite).

@@ -1,6 +1,6 @@
 {
   "name": "create-cesium",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "license": "MIT",
   "author": "nshen <nshen121@gmail.com>",
   "bin": {
@@ -14,6 +14,7 @@
   },
   "keywords": [
     "Cesium",
+    "cesium vue",
     "cesium starter",
     "cesium scaffolding",
     "cesium webpack",

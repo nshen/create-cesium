@@ -124,7 +124,7 @@ async function init() {
 
   const pkgManager = /yarn/.test(process.env.npm_execpath) ? "yarn" : "npm";
 
-  console.log(`\nDone. Now run:\n`);
+  console.log(lightRed(`\nDone. Now run:\n`));
   if (root !== cwd) {
     console.log(`  cd ${path.relative(cwd, root)}`);
   }
