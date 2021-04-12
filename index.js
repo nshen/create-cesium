@@ -21,8 +21,8 @@ const {
 const cwd = process.cwd();
 
 const TEMPLATES = [
-  blue("cesium"),
-  blue("cesium-ts"),
+  yellow("cesium"),
+  yellow("cesium-ts"),
   green("cesium-vue"),
   green("cesium-vue-ts"),
   cyan("cesium-react"),
