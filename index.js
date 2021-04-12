@@ -25,6 +25,8 @@ const TEMPLATES = [
   blue("cesium-ts"),
   green("cesium-vue"),
   green("cesium-vue-ts"),
+  cyan("cesium-react"),
+  cyan("cesium-react-ts"),
 ];
 
 const renameFiles = {
@@ -124,7 +126,7 @@ async function init() {
 
   const pkgManager = /yarn/.test(process.env.npm_execpath) ? "yarn" : "npm";
 
-  console.log(lightRed(`\nDone. Now run:\n`));
+  console.log(green(`\nDone. Now run:\n`));
   if (root !== cwd) {
     console.log(`  cd ${path.relative(cwd, root)}`);
   }
