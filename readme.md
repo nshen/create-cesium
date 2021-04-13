@@ -4,12 +4,13 @@
 
 Create blazing fast Cesium apps with no configuration.
 
+- 📢 Cesium + React template ( new )
+- 📢 Cesium + Vue 3 template ( new )
 - 📦 Both TypeScript and JavaScript
 - 🔑 Fully Typed Cesium ES6 API
 - 💡 Instant Dev Server Start
 - ⚡️ Lightning Fast HMR
 - 💖 Optimized Build
-- 📢 Cesium + Vue 3 ( new )
 
 ## Quick Start
 
