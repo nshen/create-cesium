@@ -8,8 +8,8 @@
     "build": "vite build"
   },
   "devDependencies": {
-    "vite": "^2.1.5",
-    "vite-plugin-cesium": "^1.2.1",
+    "vite": "^2.2.1",
+    "vite-plugin-cesium": "^1.2.4",
     "cesium": "^1.80"
   }
 }
