@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/create-cesium.svg)](https://www.npmjs.com/package/create-cesium)
 
-Create blazing fast Cesium apps with no configuration.
+Create blazing fast Cesium apps with no configuration, based on [vite-plugin-cesium](https://github.com/nshen/vite-plugin-cesium).
 
 - 📢 Cesium + React template ( new )
 - 📢 Cesium + Vue 3 template ( new )

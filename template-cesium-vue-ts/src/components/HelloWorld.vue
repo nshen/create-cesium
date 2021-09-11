@@ -30,6 +30,10 @@
       target="_blank"
       >Cesium Documentation</a
     >
+    |
+    <a href="https://github.com/nshen/create-cesium" target="_blank">
+      Create Cesium 🌏
+    </a>
   </p>
 
   <p>
@@ -40,6 +44,12 @@
 
 <script lang="ts">
 import { ref, defineComponent, onMounted } from "vue";
+/**
+ * You can also import Cesium Object like this
+ *
+ * import * as Cesium from 'cesium';
+ * const viewer = new Cesium.Viewer('cesiumContainer');
+ */
 import { Viewer } from "cesium";
 export default defineComponent({
   name: "HelloWorld",

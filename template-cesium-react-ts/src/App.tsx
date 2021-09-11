@@ -1,7 +1,7 @@
-import React, { useEffect, useRef, useState } from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import { Viewer } from "cesium";
+import React, { useEffect, useRef } from "react";
+import "./App.css";
+import logo from "./logo.svg";
 
 function App() {
   const divRef = useRef<HTMLDivElement>(null);
@@ -48,6 +48,15 @@ function App() {
             rel="noopener noreferrer"
           >
             Cesium Docs
+          </a>
+          {" | "}
+          <a
+            className="App-link"
+            href="https://github.com/nshen/create-cesium"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Create Cesium 🌏
           </a>
         </p>
       </header>

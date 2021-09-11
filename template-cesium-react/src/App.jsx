@@ -1,7 +1,13 @@
-import React, { useEffect, useRef } from "react";
-import logo from "./logo.svg";
-import "./App.css";
+/**
+ * You can also import Cesium Object like this
+ *
+ * import * as Cesium from 'cesium';
+ * const viewer = new Cesium.Viewer('cesiumContainer');
+ */
 import { Viewer } from "cesium";
+import React, { useEffect, useRef } from "react";
+import "./App.css";
+import logo from "./logo.svg";
 
 function App() {
   const divRef = useRef(null);
@@ -46,6 +52,15 @@ function App() {
             rel="noopener noreferrer"
           >
             Cesium Docs
+          </a>
+          {" | "}
+          <a
+            className="App-link"
+            href="https://github.com/nshen/create-cesium"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Create-cesium
           </a>
         </p>
       </header>
